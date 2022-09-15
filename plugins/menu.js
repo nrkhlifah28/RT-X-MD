@@ -37,7 +37,7 @@ const defaultMenu = {
   before: `
 *═════[ BOT INFO ]═════*
 𖥂 Hai, %name! 👋
-𖥂 Hari: *%week*
+𖥂 Hari: *%week* *%weton*
 𖥂 Bulan: *%date*
 𖥂 Waktu: *%time*
 𖥂 Uptime: *%uptime (%muptime)*
@@ -48,6 +48,7 @@ const defaultMenu = {
 𖥂 Limit: *%limit*
 𖥂 Level: *%level*
 𖥂 XP: *%exp*
+𖥂 ROLE: *%role*
 `.trimStart(),
   header: '*═════[ %category ]═════*',
   body: '⌬ %cmd %islimit %isPremium',
