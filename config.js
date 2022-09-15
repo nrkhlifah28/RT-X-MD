@@ -21,7 +21,7 @@ global.APIKeys = { // APIKey Here
 
 // Wm untuk stiker dan autobio
 global.tio = 'Nrkhlifah'
-global.packname = '© NoerBoTZ-Mdོ''
+global.packname = '© NoerBoTZ-Mdོ'
 global.author = 'Nrkhlifah'
 
 global.multiplier = 70 // Semakin Tinggi levelmu semakin naik
